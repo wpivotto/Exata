@@ -1,0 +1,74 @@
+.filtered #batch-action-form .actions {
+    margin-right: 160px !important;
+    border-right: 1px solid #ddd;
+}
+ 
+
+#batch-action-form .actions {
+    
+    padding: 4px 10px 3px 40px;
+    border-bottom: 1px solid #ddd;
+    border-top: 1px solid #ddd;
+    background: #f9f9f9 url(../img/bg_toplinks.gif) 0 100% repeat-x;
+    color: #666;
+    height: 30px;
+}
+
+ 
+#batch-action-form button {
+   
+    
+    color: #fff;
+    border-bottom: 1px solid gray;
+    border-right: 1px solid gray;
+    border-left: 1px solid #ddd;
+    border-top: 1px solid #ddd;
+    height: 22px;
+    font-size:10px; 
+
+    vertical-align: middle;
+    cursor: pointer;
+    font-weight: bold;
+    background: white url(../img/bg_inline-group.gif) 0 100% repeat-x;
+    text-decoration:none; 
+    font-family: "Lucida Grande","DejaVu Sans","Bitstream Vera Sans",Verdana,Arial,sans-serif;
+    
+     
+
+   
+    
+    
+}
+
+#batch-action-form button:hover {
+    background: white url(../img/bg_submit-default.gif) 0 100% repeat-x; 
+}
+
+
+#batch-action-form .actions label {
+    font-size: 11px;
+    margin-left: 0.5em;
+}
+
+#batch-action-form .actions button.all {
+    display: none;
+}
+
+#batch-action-form tbody tr input.batch-select {
+    margin: 0;
+}
+
+#batch-action-form tbody td:first-child {
+    width: 1.5em;
+    white-space: nowrap;
+}
+
+#batch-action-form .row1.selected {
+     background-color: #FFFEDF;
+     font-weight: bold;
+}
+
+#batch-action-form .row2.selected {
+    background-color: #FFFEDF;
+    font-weight: bold;
+}

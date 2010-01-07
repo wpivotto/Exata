@@ -1,0 +1,23 @@
+#Fri Sep 25 10:52:34 BRT 2009
+eclipse.preferences.version=1
+encoding//contas/admin.py=UTF-8
+encoding//contas/models/Conta.py=UTF-8
+encoding//sistema/admin.py=UTF-8
+encoding//sistema/models/Cliente.py=UTF-8
+encoding//sistema/models/Defeito.py=UTF-8
+encoding//sistema/models/Empresa.py=UTF-8
+encoding//sistema/models/Execucao.py=UTF-8
+encoding//sistema/models/Garantia.py=UTF-8
+encoding//sistema/models/ItensEnviados.py=UTF-8
+encoding//sistema/models/Modelo.py=UTF-8
+encoding//sistema/models/Orcamento.py=UTF-8
+encoding//sistema/models/OrdemServico.py=UTF-8
+encoding//sistema/models/Revenda.py=UTF-8
+encoding//sistema/models/Servico.py=UTF-8
+encoding//sistema/models/Solicitacao.py=UTF-8
+encoding//sistema/relatorios/reports.py=UTF-8
+encoding//sistema/views/email.py=UTF-8
+encoding//sistema/views/ordens.py=UTF-8
+encoding//sistema/views/reports.py=UTF-8
+encoding//widgets/autocomplete.py=UTF-8
+encoding/urls.py=UTF-8
